@@ -1,0 +1,13 @@
+public class ForLoops {
+
+  public static void main(String[] args) {
+
+    boolean[] arr = {true, false, false, true, true};
+        boolean someName = arr[3];
+    for(boolean i : arr){
+      System.out.println(i);
+    }
+
+  }
+
+}

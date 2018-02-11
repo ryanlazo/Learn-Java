@@ -1,0 +1,15 @@
+
+/**this is a public class for Satellite */
+public class Satellite {
+/**this is a no argument constructor for the Satellite class */
+  public Satellite () {
+     
+  }
+
+
+}
+/** this is a default class */
+
+class Coffee {
+
+}

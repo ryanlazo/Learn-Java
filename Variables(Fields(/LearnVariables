@@ -1,0 +1,10 @@
+public class LearnVariables{
+
+/**non static/instance variable*/
+  String str = "Hello";
+/**constructor with a string argument*/
+  public LearnVariables(String honey) {
+    System.out.println(str + honey);
+
+  }
+}

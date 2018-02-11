@@ -1,0 +1,12 @@
+public class While {
+  int name = 5;
+
+  while(name < 10){
+    name++;
+    System.out.println("Yay");
+
+  }
+
+
+
+}

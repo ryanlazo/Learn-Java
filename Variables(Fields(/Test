@@ -1,0 +1,7 @@
+public class Test {
+  public static void main(String[] args) {
+/** Instatiating a new object using a constructor that accepts a string value*/
+    LearnVariables = new LearnVariables("World");
+  }
+
+}

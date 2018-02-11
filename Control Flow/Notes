@@ -1,0 +1,28 @@
+STANDARD FOR LOOPS
+
+  a standard for loop is a counter used to run through a statement and then
+  increment that variable and re-test it.
+  1. initialization declaration
+  2. test against it your termination statement
+  3. do whatever is in your body.
+  4. update clause activates.
+
+ENHANCED FOR LOOP (FOR EACH)
+
+  used to iterate through a collection (array, int, boolean etc.)
+  boolean[] arr = {true, false, false, true, true};
+      boolean someName = arr[3];
+  for(boolean i : arr){
+    System.out.println(i);
+
+    1. left side: whatever your type and name is (boolean, int, String etc.)
+    2. right side: name you are storing the collection in.
+
+WHILE
+  given a statement that evaluates to T/F, execute statement if its true otherwise
+  the statement is not executed.
+
+DOWHILE
+  Do While always executes at least once.
+  given a statement that evaluates T/F, execute that statement as long as it
+  remains true. Otherwise the statement is not executed.

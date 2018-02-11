@@ -1,0 +1,12 @@
+public class LearnConstructors {
+
+
+/** this is a no argument constructor for the LearnConstructor class */
+  public LearnConstructors() {
+
+  }
+  public LearnConstructor (int cup, String tea) {
+
+  }
+
+}

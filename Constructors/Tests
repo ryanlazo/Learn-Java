@@ -1,0 +1,14 @@
+public class Tests {
+
+  public static void main (String[] args) {
+
+/**this is an instantiation of the LearnConstructor class using a
+no argument constructor  */
+    LearnConstructors obj = new LearnConstructors();
+
+/** Invoking a Constructor that accepts 2 parameters. */
+    LearnConstructor obj = new LearnConstructor(0, "Hello");
+  }
+
+
+}

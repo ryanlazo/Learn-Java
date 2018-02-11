@@ -1,0 +1,14 @@
+to create a class: use access modifier (public, protected, default, private) +
+class + somename {}
+
+PUBLIC CLASS
+is the most open, can be accessed by any class even outside of the
+package. if there is nothing before 'class' it is a
+
+DEFAULT CLASS
+default is the only accessible in the package that it is in.
+
+PRIVATE/PROTECTED
+you cannot start with private or protected and then use another class that is
+public. But you can start with a PUBLIC class and then WITHIN that class you can
+have a PROTECTED or PRIVATE class. 
