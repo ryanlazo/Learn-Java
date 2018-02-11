@@ -26,3 +26,8 @@ DOWHILE
   Do While always executes at least once.
   given a statement that evaluates T/F, execute that statement as long as it
   remains true. Otherwise the statement is not executed.
+  - be mindful of the scope of a variable. be aware of your braces {}
+  - pre incrementation/decrementation updates the value BEFORE the end of the
+  expression.
+  - post incrementation/decrementation updates the value AFTER the end of the
+  expression () or {}.
